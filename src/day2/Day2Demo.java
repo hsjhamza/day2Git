@@ -11,6 +11,6 @@ public class Day2Demo {
 	
 	//This is coming from aonther member
 	
-	
+	String firstName = "John"
 	
 }
